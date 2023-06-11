@@ -12,7 +12,8 @@ book:
   page-navigation: true
 
   chapters:
-  - chapter.qmd
+  - preface.qmd
+  - introduction.qmd
  
 format:
   html:
