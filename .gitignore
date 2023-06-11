@@ -51,3 +51,5 @@ rsconnect/
 
 _bookdown_files/
 _book
+
+.quarto/
