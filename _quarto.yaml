@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: Research Methods for Learning Engineering
+  author: 
+  - Specht, M.
+  - Saunders, G.
+  - Drachsler, H.
+  - Kalz, M.
+  - Glahn, C.
+  page-navigation: true
+
+  chapters:
+  - chapter.qmd
+ 
+format:
+  html:
+    theme: bootstrap
+    toc: true
+    html-math-method: katex
