@@ -12,7 +12,7 @@ Then, create a new issue in the book repository.
 
 Please read the three checkboxes carefully before checking them.
 
-[create a chapter proposal issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-proposal.yaml)
+[create a chapter proposal issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-proposal.yaml&title=%5BChapter%5D%3A+%3Ctitle%3E)
 
 ### Step 2: Wait for acceptance
 
@@ -49,4 +49,4 @@ Once your chapter is integrated, the chapter proposal issue will be closed.
 
 After your chapter is integrated, you may continue working on the chapter in the chapter repository. In order to integrate any changes into the book, you must open an update issue.
 
-[create an update issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-update.yaml)
+[create an update issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-update.yaml&title=%5BChapter%5D%3A+%3Crepo%20name%3E)
