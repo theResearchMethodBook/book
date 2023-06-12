@@ -18,7 +18,7 @@ Please read the three checkboxes carefully before checking them.
 
 The editors will review your proposal and either accept or reject it. 
 
-If it is accepted, a chapter repository is created for you and you will be assigned to it. Your proposal will remain open until the chapter is finished. You find all the details about the required sections, ideas and process in your chaper's `README.md` file.
+If it is accepted, a chapter repository is created for you and you will be assigned to it. Your proposal will remain open until the chapter is finished. You find all the details about the required sections, ideas and process in your chapter's `README.md` file.
 
 If rejected, you will be notified and the issue will be closed. 
 
