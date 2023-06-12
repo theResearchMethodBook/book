@@ -49,4 +49,6 @@ Once your chapter is integrated, the chapter proposal issue will be closed.
 
 After your chapter is integrated, you may continue working on the chapter in the chapter repository. In order to integrate any changes into the book, you must open an update issue.
 
+When opening an issue the editorial team expects that the changes are already integrated into the chapter repository.
+
 [create an update issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-update.yaml&title=%5BChapter%5D%3A+%3Crepo%20name%3E)
