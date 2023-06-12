@@ -20,3 +20,5 @@ format:
     theme: bootstrap
     toc: true
     html-math-method: katex
+
+csl: _contrib/apa.csl
