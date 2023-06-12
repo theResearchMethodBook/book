@@ -1,6 +1,6 @@
 # Author Information
 
-> This guide assumes that you already have an GitHub account and that you have identified the subject of your chapter. 
+> This guide assumes that you already have an GitHub account, that you are faminiliar with working with git, and that you have identified the subject of your chapter. 
 
 ## The process of a chapter 
 
