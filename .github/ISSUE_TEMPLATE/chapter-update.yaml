@@ -1,0 +1,27 @@
+
+name: Chapter update
+description: 📖 Update an existing chapter as an author
+title: '[Chapter]: <repo name>'
+labels: 
+- proposed
+body: 
+- type: markdown
+  attributes:
+    value: | 
+       This is a template for updating an existing chapter. Please fill in the details below.
+- type: textarea
+  attributes:
+    label: Key changes to the chapter
+    description: Please provide a brief outline of the changes to the chapter.
+    placeholder: New references and examples
+- type: checkboxes
+  attributes:
+    label: 'Please check the following boxes to confirm:'
+    description: 'These are legal requirements'
+    options:
+    - label: I am aware I submit to an open access book. All text, sources, and data will become available in the public domain.
+      required: true
+    - label: I am aware that I have to provide and/or write the chapter contents upon acceptance. 
+      required: true
+    - label: The proposed chapter is based on original work and does not include content and material that is protected by copyright or is otherwise conflicting with the book's license.
+      required: true
