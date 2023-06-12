@@ -1,18 +1,35 @@
 ---
 name: Chapter proposal
 about: Suggest a new chapter as an author
-title: ''
+title: '[Chapter]: '
 labels: proposed
 assignees: ''
-
+body: 
+    - type: markdown
+      attributes:
+        value: | 
+           This is a template for a chapter proposal. Please fill in the details below.
+    - type: input
+      attributes:
+        label: Name of the method?
+        description: Please provide the name of the research method you want to write about.
+        placeholder: e.g. Grounded Theory
+    - type: input
+      attributes:
+        label: Proposed title for the chapter
+        description: Please provide the title for the chapter.
+        placeholder: e.g. Qualitative Research with Data
+    - type: textarea
+      attributes:
+        label: Brief outline of the chapter
+        description: Please provide a brief outline of the chapter.
+        placeholder: e.g. This chapter will cover the following topics ...
+    - type: checkboxes
+      attributes:
+        label: 'Please check the following boxes to confirm:'
+        description: ''
+        options:
+        - label: I am aware I submit to an open access book. All text, sources, and data will become available in the public domain.
+        - label: I am aware that I have to provide and/or write the chapter contents upon acceptance. 
+        - label: The proposed chapter is based on original work and does not include content and material that is otherwise protected by copyright.
 ---
-
-What research method?
-
-Proposed Chapter Title
-
-Brief outline of the chapter
-
-- [ ] I am aware I submit to an open access book. All text, sources, and data will become available in the public domain.
-- [ ] I am aware that I have to provide and/or write the chapter contents upon acceptance. 
-- [ ] The proposed chapter is based on original work and does not include content and material that is otherwise protected by copyright.
