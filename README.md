@@ -6,7 +6,7 @@ Research Methods for Learning Engineers
 
 ## Author Information
 
-If you want to propose a chapter, please submit an issue. 
+Please refer to the [Author Guide](blob/main/_docs/Author_Guide.md) for information on how to contribute to this book.
 
 ## Reader Information
 
