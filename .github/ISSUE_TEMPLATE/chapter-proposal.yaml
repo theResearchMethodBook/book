@@ -5,6 +5,20 @@ title: '[Chapter]: <title>'
 labels: 
 - proposed
 body: 
+- type: markdown
+  attributes:
+    value: | 
+       This is a template for a chapter proposal. Please fill in the details below.
+- type: input
+  attributes:
+    label: Name of the method?
+    description: Please provide the name of the research method you want to write about.
+    placeholder: e.g. Grounded Theory
+- type: textarea
+  attributes:
+    label: Brief outline of the chapter
+    description: Please provide a brief outline of the chapter.
+    placeholder: e.g. This chapter will cover the following topics ...
 - type: checkboxes
   attributes:
     label: 'Please check the following boxes to confirm:'
