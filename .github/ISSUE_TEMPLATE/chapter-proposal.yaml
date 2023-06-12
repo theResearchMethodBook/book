@@ -16,12 +16,12 @@ body:
     placeholder: e.g. Grounded Theory
 - type: textarea
   attributes:
-    label: Brief outline of the chapter
-    description: Please provide a brief outline of the chapter.
+    label: The abstract of the chapter
+    description: Please provide a brief outline of the chapter. Max. 300 words.
     placeholder: e.g. This chapter will cover the following topics ...
 - type: textarea
   attributes:
-    label: Please provide the github names of your co-authors (if possible)
+    label: Please provide the github names of your co-authors (optional)
     description: Please provide a brief outline of the chapter use one line per co-author.
     placeholder: e.g. phish108 or marcuspecht
 - type: checkboxes
@@ -33,5 +33,5 @@ body:
       required: true
     - label: I am aware that I have to provide and/or write the chapter contents upon acceptance. 
       required: true
-    - label: The proposed chapter is based on original work and does not include content and material that is otherwise protected by copyright.
+    - label: The proposed chapter is based on original work and does not include content and material that is protected by copyright or otherwise conflicting with the book's license.
       required: true
