@@ -1,6 +1,6 @@
 
 name: Chapter proposal
-description: Suggest a new chapter as an author
+description: 📖 Suggest a new chapter as an author
 title: '[Chapter]: <title>'
 labels: 
 - proposed
@@ -19,6 +19,11 @@ body:
     label: Brief outline of the chapter
     description: Please provide a brief outline of the chapter.
     placeholder: e.g. This chapter will cover the following topics ...
+- type: textarea
+  attributes:
+    label: Please provide the github names of your co-authors (if possible)
+    description: Please provide a brief outline of the chapter use one line per co-author.
+    placeholder: e.g. phish108 or marcuspecht
 - type: checkboxes
   attributes:
     label: 'Please check the following boxes to confirm:'
