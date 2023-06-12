@@ -33,5 +33,5 @@ body:
       required: true
     - label: I am aware that I have to provide and/or write the chapter contents upon acceptance. 
       required: true
-    - label: The proposed chapter is based on original work and does not include content and material that is protected by copyright or otherwise conflicting with the book's license.
+    - label: The proposed chapter is based on original work and does not include content and material that is protected by copyright or is otherwise conflicting with the book's license.
       required: true
