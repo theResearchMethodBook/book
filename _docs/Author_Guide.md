@@ -1,4 +1,4 @@
-# Author Information
+# Authors' Guide
 
 > This guide assumes that you already have an GitHub account, that you are faminiliar with working with git, and that you have identified the subject of your chapter. 
 
