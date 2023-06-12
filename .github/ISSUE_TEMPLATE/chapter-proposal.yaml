@@ -1,7 +1,8 @@
 name: Chapter proposal
 about: Suggest a new chapter as an author
 title: '[Chapter]: '
-labels: proposed
+labels: 
+- proposed
 assignees: ''
 body: 
 - type: markdown
