@@ -12,7 +12,7 @@ Then, create a new issue in the book repository.
 
 Please read the three checkboxes carefully before checking them.
 
-[create a chapter proposal issue](https://github.com/theResearchMethodBook/book/issues/new?template=chapter-proposal.yaml&title=%5BChapter%5D%3A+%3Ctitle%3E)
+[create a chapter proposal issue](https://github.com/theResearchMethodBook/book/issues/new?labels=proposed&template=chapter-proposal.yaml&title=%5BChapter%5D%3A+%3Ctitle%3E)
 
 ### Step 2: Wait for acceptance
 
