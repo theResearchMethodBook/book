@@ -35,11 +35,15 @@ We have some requirements for your chapter:
 
 All communication with the editorial team uses the issues in your chapter repository. 
 
-Please use bibtex for your references and store them in the `references.bib` file.
+Please use bibtex for your references and store them in the `references.bib` file. This ensures that all used references are appropriately reported at the end of your chapter.
+
+The Book uses the APA style version 7 for references. We already configured this style for your chapter. Please use the [pandoc citation syntax](https://pandoc.org/chunkedhtml-demo/8.20-citation-syntax.html) throughout your contribution to cite your references in the text. This ensures that you always use the correct reference style.
+
+**Do not** add references manually or add citations below the `## References {-}` header.
 
 ### Step 4: Finalise your chapter
 
-When you are done with your chapter, please comment on your chapter proposal. Only after that you chapter will enter the review phase and your chapter will be integrated with the book. 
+When you are done with your chapter, please comment on your chapter proposal. Only after that your chapter will enter the review phase and your chapter will be integrated with the book. 
 
 During this phase you may receive new issues from the editorial team or assigned reviewers that indicate errors or request changes. 
 
