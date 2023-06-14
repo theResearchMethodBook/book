@@ -12,8 +12,11 @@ book:
   page-navigation: true
 
   chapters:
-  - preface.qmd
-  - introduction.qmd
+  - index.qmd
+  # - preface.qmd
+  - chapters/chapter-introduction/chapter.qmd
+  - chapters/chapter-correlation/chapter.qmd
+  - chapters/chapter-gcm/chapter.qmd
  
 format:
   html:

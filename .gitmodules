@@ -1,0 +1,9 @@
+[submodule "chapters/chapter-introduction"]
+	path = chapters/chapter-introduction
+	url = https://github.com/theResearchMethodBook/chapter-introduction.git
+[submodule "chapters/chapter-gcm"]
+	path = chapters/chapter-gcm
+	url = https://github.com/theResearchMethodBook/chapter-gcm.git
+[submodule "chapters/chapter-correlation"]
+	path = chapters/chapter-correlation
+	url = https://github.com/theResearchMethodBook/chapter-correlation.git
